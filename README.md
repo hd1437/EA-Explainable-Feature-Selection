@@ -10,7 +10,6 @@ This repository provides the source code of paper 'An Explainable Feature Select
 * `record/view.py`: Visualize the feature selection probability curves.
 * `dataset/generate_synthetic.py`: Generate the synthetic dataset.
 * `dataset/rand.py`: Generate the random dataset.
-* `Baselines`: Contains baselines used in the experiment.
 
 ## Usage
 Put the datasets in `./dataset`. Run `EA.py` to save the intermediate variables and results. Run other scripts to explore the performace of EA.
